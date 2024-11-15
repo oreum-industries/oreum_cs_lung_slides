@@ -17,14 +17,16 @@ This complicated dataset requires multiple advanced modelling methods to
 handle and mitigate bad / messy data.
 
 See comprehensive explanations and deep technical demonstratations of various 
-survival models in our public project 
-[**Oreum Survival**](https://github.com/oreum-industries/oreum_survival) 
-including Accelerated Failure Time and Piecewise Regression Models
+survival models including Accelerated Failure Time and Piecewise Regression Models
+in our public project **Oreum Survival** at 
+[`oreum_survival`](https://github.com/oreum-industries/oreum_survival) 
 
-See the full case study (all code and notebooks etc) at
-[**Oreum Case Study Lung**](https://github.com/oreum-industries/oreum_cs_lung)
 
-See the slides at https://oreum-industries.github.io/oreum_cs_lung_slides/
+See the full **Oreum Case Study Lung** (all code and notebooks etc) at 
+[`oreum_cs_lung`](https://github.com/oreum-industries/oreum_cs_lung)
+
+See the slides hosted on a static site at 
+[oreum_cs_lung_slides](https://oreum-industries.github.io/oreum_cs_lung_slides/)
 
 ---
 
