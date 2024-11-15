@@ -5,9 +5,11 @@
 Demonstrate Survival Regression Modelling using Bayesian inference and a
 Bayesian workflow, specifically using the `pymc` & `arviz` ecosystem.
 
-Here we demonstrate an E2E workflow for models of increasing sophistication.
+Here we report a brief overview of a full case study
+[`oreum_cs_lung`](https://github.com/oreum-industries/oreum_cs_lung) 
+in which we demonstrate an E2E workflow for models of increasing sophistication. 
 We evaluate the behaviour and performance of the models throughout the workflows,
-including several state-of-the-art methods unavailable to conventional
+including several state-of-the-art methods unavailable to conventional 
 max-likelihood / machine-learning models.
 
 We use a complicated, real-world dataset: the NCCTG Lung Cancer Dataset
