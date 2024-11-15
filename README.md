@@ -24,7 +24,7 @@ including Accelerated Failure Time and Piecewise Regression Models
 See the full case study (all code and notebooks etc) at
 [**Oreum Case Study Lung**](https://github.com/oreum-industries/oreum_cs_lung)
 
-
+See the slides at https://oreum-industries.github.io/oreum_cs_lung_slides/
 
 ---
 
